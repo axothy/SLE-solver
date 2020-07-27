@@ -3,7 +3,7 @@ Housholder reflection QR. System of linear equations.
 
 We have SLE (System of linear equations):
 
-![]()
+![](http://images.vfl.ru/ii/1595856234/049b1646/31181002.png)
 
 For example:
 
